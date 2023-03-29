@@ -102,7 +102,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  repo: 'https://github.com/rnthking/chatgpt.github.io.git'
-  branch: 'main'
+  # type: 'git'
+  # repo: 'https://github.com/rnthking/chatgpt.github.io.git'
+  # branch: 'main'
   
